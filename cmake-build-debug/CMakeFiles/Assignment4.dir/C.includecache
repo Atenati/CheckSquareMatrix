@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Year 1/Semester 2/__ProgrammingII/Assignments/(Done) Assignment 4/Assignment4/CheckSquare.c
+CheckSquare.h
+F:/Year 1/Semester 2/__ProgrammingII/Assignments/(Done) Assignment 4/Assignment4/CheckSquare.h
+
+F:/Year 1/Semester 2/__ProgrammingII/Assignments/(Done) Assignment 4/Assignment4/CheckSquare.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+F:/Year 1/Semester 2/__ProgrammingII/Assignments/(Done) Assignment 4/Assignment4/main.c
+CheckSquare.h
+F:/Year 1/Semester 2/__ProgrammingII/Assignments/(Done) Assignment 4/Assignment4/CheckSquare.h
+
